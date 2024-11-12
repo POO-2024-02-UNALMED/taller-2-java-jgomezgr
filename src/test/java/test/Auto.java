@@ -41,7 +41,9 @@ class Auto {
             return "El auto es original";
 
         }
-        return "Las piezas no son originales";
+        else{
+            return "Las piezas no son originales";
+        }
     }
 
 }
