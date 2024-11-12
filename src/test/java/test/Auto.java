@@ -38,8 +38,7 @@ class Auto {
                     }
                 }
             }
-            return "El auto es original";
-
+            return "Auto original";
         }
         else{
             return "Las piezas no son originales";
